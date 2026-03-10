@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
 
   s.homepage         = 'https://github.com/everappz/libtasn1'
   s.license          = { :type => 'LGPL-2.1', :file => 'LICENSE' }
-  s.author           = { 'leshkoapps' => 'https://github.com/everappz' }
+  s.author           = { 'everappz' => 'https://github.com/everappz' }
   s.source           = { :git => 'https://github.com/everappz/libtasn1.git', :tag => s.version.to_s }
 
   s.ios.deployment_target     = '12.0'
