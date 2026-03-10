@@ -8,10 +8,10 @@ Pod::Spec.new do |s|
     and other security-related projects.
   DESC
 
-  s.homepage         = 'https://github.com/leshkoapps/libdsm'
-  s.license          = { :type => 'LGPL-2.1', :file => 'COPYING.LIB' }
-  s.author           = { 'leshkoapps' => 'https://github.com/leshkoapps' }
-  s.source           = { :git => 'https://github.com/leshkoapps/libdsm.git', :tag => s.version.to_s }
+  s.homepage         = 'https://github.com/everappz/libtasn1'
+  s.license          = { :type => 'LGPL-2.1', :file => 'LICENSE' }
+  s.author           = { 'leshkoapps' => 'https://github.com/everappz' }
+  s.source           = { :git => 'https://github.com/everappz/libtasn1.git', :tag => s.version.to_s }
 
   s.ios.deployment_target     = '12.0'
   s.osx.deployment_target     = '10.15'
